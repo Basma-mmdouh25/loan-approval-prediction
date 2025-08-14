@@ -1,4 +1,6 @@
-# Task 2: Loan Approval Prediction
+# Loan Approval Prediction
+
+Task 4 at Internship Project at Elovve
 
 ## 📌 Description
 This project builds a **predictive machine learning model** to determine whether a loan application will be approved.  
